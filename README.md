@@ -1,7 +1,6 @@
-
-
-![Logo](/Images/logo.png)
-
+<p align="center">
+  <img src="/Images/logo.png" />
+</p>
 
 
 # Boom Bikes assignment
