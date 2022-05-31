@@ -36,6 +36,8 @@ available for shared use to individuals on a short-term basis for a price. This 
   * Matplotlib - version 3.5.1
   * Seaborn - version 0.11.2
   * Plotly - version 5.7
+  * Statsmodels-Version 0.13.2
+  * Scikitlearn- Version 1.0.1
 
 ## Acknowledgements
 Give credit here.
